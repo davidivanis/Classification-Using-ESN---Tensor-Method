@@ -4,7 +4,7 @@ function T = fold( M, mode, dT )
 %
 % Dio nastavnog materijala na  
 % PMF-Matematicki odsjek, Sveuciliste u Zagrebu
-% Diplomski kolegij Uvod u slozeno pretrazivanje podataka (© Zlatko Drmac)
+% Diplomski kolegij Uvod u slozeno pretrazivanje podataka (Â© Zlatko Drmac)
 %
 % Ulazni parametri
 % ================
